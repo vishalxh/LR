@@ -20,7 +20,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: black;
+  background-color: transparent;
   color: aliceblue;
   font-size: 50px;
 }
