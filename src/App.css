@@ -129,6 +129,7 @@ body{
 }
 .image1{
   position: absolute;
+  scale:1.15;
   animation-name: lucy;
   animation-delay: 1s;
   animation-duration: 3.5s;
